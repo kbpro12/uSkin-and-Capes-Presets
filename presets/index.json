@@ -1,0 +1,24 @@
+{
+  "presets": [
+    {
+      "id": "example_one",
+      "name": "Example One",
+      "author": "VisdomXD",
+      "version": 1,
+      "skin": "skins/example_one.png",
+      "cape": "capes/example_one.png",
+      "animated_cape": false,
+      "frame_delay_ms": 100
+    },
+    {
+      "id": "example_animated",
+      "name": "Example Animated",
+      "author": "VisdomXD",
+      "version": 1,
+      "skin": "skins/example_animated.png",
+      "cape": "capes/example_animated.png",
+      "animated_cape": true,
+      "frame_delay_ms": 150
+    }
+  ]
+}
