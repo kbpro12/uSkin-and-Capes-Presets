@@ -23,6 +23,16 @@
       "frame_delay_ms": 150,
       "skin_sha256": "734cbe5988e936f4f3d027bd32fa271b51397729cc23702e373395bd333f7ea1",
       "cape_sha256": "7a7e89421cebc5ca92b79bef644bc29b47b54ccaf55d521b796c83c3dd98b560"
+    },
+    {
+      "id": "test",
+      "name": "TEST",
+      "author": "VisdomXD",
+      "version": 1,
+      "skin": "skins/text_skin.png",
+      "cape": "capes/SkinMC-Cape-168650.png",
+      "animated_cape": false,
+      "frame_delay_ms": 150
     }
   ]
 }
