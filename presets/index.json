@@ -8,7 +8,9 @@
       "skin": "skins/example_one.png",
       "cape": "capes/example_one.png",
       "animated_cape": false,
-      "frame_delay_ms": 100
+      "frame_delay_ms": 100,
+      "skin_sha256": "36f29ecf69edf47f3d44ef35d25fe301e3e319ca86da0126334ca863190a9c6b",
+      "cape_sha256": "65324e8bfd1d0e746bd3d2972efa814c6ee9a82f527df5db705b08b44c9ef073"
     },
     {
       "id": "example_animated",
@@ -18,7 +20,9 @@
       "skin": "skins/example_animated.png",
       "cape": "capes/example_animated.png",
       "animated_cape": true,
-      "frame_delay_ms": 150
+      "frame_delay_ms": 150,
+      "skin_sha256": "734cbe5988e936f4f3d027bd32fa271b51397729cc23702e373395bd333f7ea1",
+      "cape_sha256": "7a7e89421cebc5ca92b79bef644bc29b47b54ccaf55d521b796c83c3dd98b560"
     }
   ]
 }
